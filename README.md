@@ -24,7 +24,7 @@ This repository **does not** send real SMS messages. All network calls are mocke
    git clone https://github.com/neboir/Automated-SMS-Script
 2. Go to the project directory:
    ```bash
-   cd sms-spammer
+   cd Automated-SMS-Script
 3. Install dependencies:
     ```bash
    pip install -r requirements.txt
