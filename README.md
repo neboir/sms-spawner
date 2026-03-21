@@ -14,7 +14,7 @@ It is intended for learning about:
 - Loop execution and basic concurrency (threads or async)  
 - API simulation and safe testing practices
 
-This repository **does not** send real SMS messages. All network calls are mocked or intentionally printed to the console so you can learn without affecting real users.
+This repository **will be** send real SMS messages. All network calls are mocked or intentionally printed to the console so you can learn without affecting real users.
 
 ---
 ## 🛠️ Installation
