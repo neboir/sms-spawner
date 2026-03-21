@@ -21,7 +21,7 @@ This repository **does not** send real SMS messages. All network calls are mocke
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/neboir/sms-spammer
+   git clone https://github.com/neboir/Automated-SMS-Script
 2. Go to the project directory:
    ```bash
    cd sms-spammer
