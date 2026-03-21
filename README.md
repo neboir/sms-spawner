@@ -42,4 +42,4 @@ You will be prompted to enter:
 - The number of iterations (example: 10) — how many times to run the mock send.
 
 The script uses a mock sender by default (prints or calls a fake endpoint).  
-No real SMS will be sent.
+Some sms otp number will be sent 
