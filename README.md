@@ -1,4 +1,4 @@
-# SMS Spammer (Educational Version)
+# Automated SMS Script (Educational Version)
 
 ⚠️ **Disclaimer:**  
 This project is created **for educational and research purposes only**.  
